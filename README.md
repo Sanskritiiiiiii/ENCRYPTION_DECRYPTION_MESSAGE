@@ -1,83 +1,76 @@
-🧠 JavaScript Quiz Website
+🔐 Encryption & Decryption Message System
 
-An interactive and responsive quiz application built using JavaScript. This project allows users to test their knowledge through multiple-choice questions with instant feedback and score tracking.
-
+A simple and interactive web-based application that allows users to securely encrypt and decrypt messages. This project demonstrates basic cryptography concepts using front-end technologies.
 
 📌 Features
 
-🎯 Multiple-choice quiz questions
-⏱️ Real-time answer selection
-📊 Score tracking system
-🔄 Dynamic question loading
+🔒 Encrypt plain text messages
+🔓 Decrypt encrypted messages
+🎯 Simple and user-friendly interface
+⚡ Fast and real-time processing
 📱 Fully responsive design
-⚡ Fast and smooth user experience
+🧠 Demonstrates basic cryptography logic
 
 🛠️ Tech Stack
 
 HTML5 – Structure
-CSS3 – Styling and responsiveness
-JavaScript (Vanilla JS) – Logic and interactivity
+CSS3 – Styling and layout
+JavaScript – Encryption & decryption logic
 
 📂 Project Structure
 
-javascript-quiz/
+encryption-decryption/
 │── index.html
 │── style.css
 │── script.js
-│── questions.js
 │── assets/
-│   ├── images/
-│   └── icons/
+│   └── images/
 │── README.md
 
-🎮 How It Works
+🧠 How It Works
 
-User starts the quiz
-Questions are displayed one by one
-User selects an answer
-Instant feedback is provided
-Final score is shown at the end
+User enters a message
+Clicks on Encrypt → message gets converted into coded format
+Clicks on Decrypt → original message is restored
+Logic is implemented using JavaScript functions
 
 ⚙️ Installation & Setup
 
-Follow these steps to run the project locally:
-
 # Clone the repository
-git clone https://github.com/your-username/javascript-quiz.git
+git clone https://github.com/your-username/encryption-decryption.git
 
-# Navigate into the project folder
-cd javascript-quiz
+# Navigate to the folder
+cd encryption-decryption
 
-# Open index.html in your browser
+# Open index.html in browser
 📸 Screenshots
 
-Add screenshots of quiz interface, question screen, and result screen here
+Add screenshots of encryption and decryption interface here
 
 📈 Future Enhancements
-🔐 User login/signup system
-🏆 Leaderboard feature
-📊 Performance analytics
-🎵 Sound effects for interactions
-🌐 Backend integration (Node.js / Firebase)
-📚 Category-based quizzes
+🔐 Add advanced encryption (AES, RSA)
+🔑 Password-based encryption
+📋 Copy-to-clipboard feature
+🌐 Backend integration for secure storage
+📱 Mobile app version
 🤝 Contributing
 
 Contributions are welcome!
 
 Fork the repository
 Create a new branch
-Make your changes
+Make changes
 Submit a pull request
 📄 License
 
-This project is open-source and available under the MIT License.
+This project is licensed under the MIT License.
 
 👩‍💻 Author
 
 Sanskriti Dantre
 
 💻 Frontend Developer | Aspiring Product Manager
-🔗 GitHub: https://github.com/Sanskritiiiiiii
+🔗 GitHub: https://github.com/your-username
 ⭐ Support
 
-If you like this project, don’t forget to ⭐ star the repository!
+If you like this project, don’t forget to ⭐ star the repo!
